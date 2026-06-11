@@ -29,9 +29,6 @@ Final:
 - Chunk Size: 1000
 - Chunk Overlap: 200
 
-## Public Chatbot URL
-(Add Flowise public URL if available)
-
 ## Test Questions
 
 Q1:
@@ -54,17 +51,17 @@ Answer:
 Q3:
 Summarize supplier governance policy.
 
-(Add response)
+Answer: 
+The BQBYTE TECHNOLOGIES Supplier Governance & Compliance Policy, effective September 1, 2024, is an internal procurement document that outlines the framework for managing and monitoring suppliers. It covers:
 
-Q4:
-What is OTD?
-
-(Add response)
-
-Q5:
-What supplier compliance requirements exist?
-
-(Add response)
+Purpose & Scope: Defining the policy's objectives and applicability.
+Supplier Classification: A framework for categorizing suppliers into tiers.
+Service Level Agreements (SLAs): Specific performance expectations based on supplier tier.
+Penalty & Incentive Structure: Mechanisms for rewarding good performance and penalizing non-compliance (e.g., for defect rates, lead times, and on-time delivery).
+Risk Management: Protocols for assessing and escalating risks, including concentration risk limits for procurement spend (e.g., no single region over 45%, no single country over 25%).
+Sustainability & Compliance: Requirements related to sustainability scores and overall compliance.
+Auditing & Scoring: Methodology for audits and calculating compliance scores.
+Disruption Management: Procedures for responding to disruptions and activating alternate suppliers.
 
 ## Improvements
 - Add memory
